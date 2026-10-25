@@ -1,1 +1,1 @@
-first JS homework
+second JS homework
